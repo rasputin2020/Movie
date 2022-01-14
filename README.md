@@ -6,4 +6,6 @@
    ### 电影字幕  
    1. Can't Get You Out Of My Head_CH&EN_SRT.rar  
 
-   ### 电源截图
+   ### 电影 截图
+   1. 《六号车厢》  
+   2. 
