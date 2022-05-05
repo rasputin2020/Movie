@@ -13,12 +13,4 @@
 
 
 
-#### 使用 `style` 属性修改文字的背景色
-
-<font style="background: red">红色</font>
-<font style="background: green">绿色</font>
-<font style="background: blue">蓝色</font>
-
-<font style="background: rgb(200,100,100)">使用 rgb 颜色值</font>
-
-<font style="background: #FF00BB">使用十六进制颜色值</font>
+<tabel><tr><td bgcolor=DarkSeaGreen>这里的背景色时</td></tr></table>
